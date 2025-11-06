@@ -1,0 +1,23 @@
+﻿@model Seller
+
+@{
+    ViewData["Title"] = "Seller Welcome";
+}
+<!DOCTYPE html>
+<head>
+    <div class="text-center">
+        <h2>Welcome, Seller @Model.User.FirstName!</h2>
+
+        <h3>Account Details</h3>
+        <p>First Name: @Model.User.FirstName</p>
+        <p>Last Name: @Model.User.LastName</p>
+
+        <a href="/Clients/Create" class="btn btn-primary">Add a new Client!</a>
+
+        <a href="/Bills/Create" class="btn btn-primary">Add a new Bill!</a>
+
+        <a href="/Phones" class="btn btn-primary">Change a Clients Program!</a>
+
+
+    </div>
+</head>

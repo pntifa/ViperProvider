@@ -1,0 +1,23 @@
+﻿@model Admin
+
+@{
+    ViewData["Title"] = "Admin Welcome";
+}
+<!DOCTYPE html>
+<head>
+    <div class="text-center">
+        <h2>Welcome, Admin @Model.User.FirstName!</h2>
+
+        <h3>Account Details</h3>
+        <p>First Name: @Model.User.FirstName</p>
+        <p>Last Name: @Model.User.LastName</p>
+
+        <a href="/Sellers/Create" class="btn btn-primary">Add a new Seller!</a>
+
+        <a href="/Programs/Create" class="btn btn-primary">Add a new Program!</a>
+
+        <a href="/Programs" class="btn btn-primary">Edit Program Benefits!</a>
+
+
+    </div>
+</head>

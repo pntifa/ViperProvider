@@ -1,0 +1,235 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVC_Viper
+build_property.RootNamespace = MVC_Viper
+build_property.ProjectDir = C:\Users\ZE BEBE\Documents\Uni- Last Year\android\MVC\MVC_Viper\MVC_Viper\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ZE BEBE\Documents\Uni- Last Year\android\MVC\MVC_Viper\MVC_Viper
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Admins/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5zXFdlbGNvbWUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Bills/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Bills/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Bills/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Bills/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Bills/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmlsbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Calls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Calls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Calls/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Calls/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Calls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Clients/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Clients/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Clients/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Clients/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Clients/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Home/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Phones/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Phones/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Phones/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Phones/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Phones/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGhvbmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Programs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Programs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Programs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Programs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Programs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZ3JhbXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Sellers/Welcome.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VsbGVyc1xXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Users/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ZE BEBE/Documents/Uni- Last Year/android/MVC/MVC_Viper/MVC_Viper/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-4i9diha5r4

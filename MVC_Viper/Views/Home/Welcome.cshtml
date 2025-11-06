@@ -1,0 +1,47 @@
+﻿@model ClientDashboardViewModel
+
+@{
+    ViewData["Title"] = "Welcome";
+}
+<!DOCTYPE html>
+<head>
+    <div class="text-center">
+        <h2>Welcome, @User.Identity.Name!</h2>
+
+        <h3>Account Details</h3>
+
+        <p><strong>Phone Number: </strong> @Model.PhoneNumber</p>
+        <p><strong>Program: </strong> @Model.Program</p>
+        <p><strong>Benefits: </strong> @Model.ProgramBenefits</p>
+        <p><strong>Monthly Charge: </strong> $@Model.ProgramCharge</p>
+
+        <h3>Call History:</h3>
+        @if (Model.CallHistory.Any())
+        {
+            <table class="table">
+                <tr>
+                    <th>CallID</th>
+                    <th>Description</th>
+                </tr>
+                @foreach (var call in Model.CallHistory)
+                {
+                    <tr>
+                        <td>@call.CallId</td>
+                        <td>@call.Description</td>
+                    </tr>
+                }
+            </table>
+        }
+        else
+        {
+            <p>No call history available</p>
+        }
+
+        <h3>Bill Payment</h3>
+        <p><strong>Current Bill:</strong> $@Model.CurrentBill</p>
+        <a href="/Payments/PayBill" class="btn btn-primary">Pay Now</a>
+
+        
+
+    </div>
+</head>

@@ -1,0 +1,49 @@
+html {
+  font-size: 14px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: auto;
+    padding: 0;
+    background-image: url('../img/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.img-left {
+    float: left;
+    width: 80px;
+    height: 60px;
+}
+
+.card {
+    border-radius: 10px;
+    transition: transform 0.3s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+ }

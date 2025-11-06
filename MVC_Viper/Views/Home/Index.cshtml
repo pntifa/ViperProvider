@@ -1,0 +1,35 @@
+﻿@model List<MVC_Viper.Models.Programs>
+@{
+    ViewData["Title"] = "Home";
+}
+<!DOCTYPE html>
+<head>
+    <div class="text-center">
+        <h1 class="display-4">ViperProvider</h1>
+        <p>Feel the Bliiiiissssss in Total Communication</a>.</p>
+
+        @* <a class="btn btn-primary" asp-controller="Users" asp-action="Register">Register</a> *@
+        <a class="btn btn-primary" asp-controller="Users" asp-action="Login">Login to your Account</a>
+    </div>
+
+    <div class="container mt-4">
+        <h2 class="text-center mb-4">Our Phone Programs</h2>
+        <div class="row">
+            @foreach (var programs in Model)
+            {
+                <div class="col-md-3">
+                    <div class="card text-center shadow-lg mb-4">
+                        <div class="card-body">
+                            <h5 class="card-title">@programs.ProgramName</h5>
+                            <p class="card-text">
+                                <strong>Benefits:</strong> @programs.Benefits <br />
+                                <strong>Monthly Charge:</strong> $@programs.Charge
+                            </p>
+                            <a asp-controller="Programs" asp-action="Details" asp-route-id="@programs.ProgramName" class="btn btn-primary">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</head>
